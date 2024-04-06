@@ -25,11 +25,13 @@ a:link-icon{
 .img-carrousel{
     background-color: #140149ef;
     background-image: url("./assets/img/dirty-rustic-white-wood-textured-background.jpg");
+    height: 70vh;
 }
 
 .img-secondary{
     background-color:#ffffffd4 ;
     position: relative;
+    height: 70vh;
 }
 
 .img-small{
