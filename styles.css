@@ -1,0 +1,49 @@
+.img-bg{
+    background-image: url("./assets/img/dirty-rustic-white-wood-textured-background.jpg");
+}
+
+.background-first {
+    background-color:#140149ef ;
+    position: relative;
+    }
+
+#text-first {
+    color: #ffc107 !important;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#descripiton-first {
+    color: aliceblue;
+    font-size: 1.8rem;
+}
+
+a:link-icon{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.img-carrousel{
+    background-color: #140149ef;
+    background-image: url("./assets/img/dirty-rustic-white-wood-textured-background.jpg");
+}
+
+.img-secondary{
+    background-color:#ffffffd4 ;
+    position: relative;
+}
+
+.img-small{
+    border-radius: 50%;
+    border: solid 0.3rem #140149ef;
+} 
+
+#title-section-2{
+    color: #140149 !important;
+}
+
+#paragraph-section-2{
+    color: #140149;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
