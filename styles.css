@@ -49,3 +49,48 @@ a:link-icon{
     font-size: 1.5rem;
 }
 
+.sec-features{
+    height: 80vh;
+}
+
+.cont-skills{
+    height: 70vh;
+}
+
+h5{
+    font-weight: 700;
+    color: #140149;
+}
+
+#title-section3{
+    font-size: 1.7rem;
+    color: #140149;
+    font-weight: 700;
+}
+
+#text-section3{
+    font-size: 1.34rem;
+    color: #140149;
+}
+
+.call-to-action {
+    background-color:#140149; 
+    height: 70vh;
+}
+
+#title-cta{
+    color: #ffc107;
+}
+
+#text-cta{
+    color: #ffffff;
+}
+
+#button-cta{
+    background-color: #ffc107;
+    color: #140149;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
