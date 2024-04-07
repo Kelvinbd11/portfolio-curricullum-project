@@ -25,13 +25,13 @@ a:link-icon{
 .img-carrousel{
     background-color: #140149ef;
     background-image: url("./assets/img/dirty-rustic-white-wood-textured-background.jpg");
-    height: 70vh;
+    height: 80vh;
 }
 
 .img-secondary{
     background-color:#ffffffd4 ;
     position: relative;
-    height: 70vh;
+    height: 80vh;
 }
 
 .img-small{
@@ -50,7 +50,7 @@ a:link-icon{
 }
 
 .sec-features{
-    height: 80vh;
+    height: 90vh;
 }
 
 .cont-skills{
@@ -94,3 +94,23 @@ h5{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.footer-div {
+    background-color: #ffffff;
+}
+
+#copyrigth-text{
+    color: #ffffff;
+}
+
+.h1-call{
+    background-color: #ffc107;
+    padding: 10px;
+    border-radius: 1rem;
+    font-size: 1.7rem;
+}
