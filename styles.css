@@ -108,9 +108,10 @@ h5{
     color: #ffffff;
 }
 
-.h1-call{
+#h1-call{
     background-color: #ffc107;
-    padding: 10px;
+    padding: 0.5rem;
     border-radius: 1rem;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
+    width: 100%;
 }
